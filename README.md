@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### About the project
+This is a simple weather app which fetches data from openWeather (https://openweathermap.org/). <br>
+The complete documentation of fetching the weather data is mentioned here --->https://openweathermap.org/current.
+
+###Outcome of this project
+Through this project I got to learn data fetching from api,handling fetching error of the data, and parse the json data according to requirement of the user. 
